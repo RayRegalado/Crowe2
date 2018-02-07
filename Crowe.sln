@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe", "Crowe\Crowe.csproj", "{D3783210-80A8-4260-A138-1A22F62A88A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweTests", "CroweTests\CroweTests.csproj", "{30B24D8C-6EAC-44E7-8815-01BD701647DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3783210-80A8-4260-A138-1A22F62A88A0}.Debug|x86.ActiveCfg = Debug|x86
+		{D3783210-80A8-4260-A138-1A22F62A88A0}.Debug|x86.Build.0 = Debug|x86
+		{D3783210-80A8-4260-A138-1A22F62A88A0}.Release|x86.ActiveCfg = Release|x86
+		{D3783210-80A8-4260-A138-1A22F62A88A0}.Release|x86.Build.0 = Release|x86
+		{30B24D8C-6EAC-44E7-8815-01BD701647DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30B24D8C-6EAC-44E7-8815-01BD701647DD}.Debug|x86.Build.0 = Debug|Any CPU
+		{30B24D8C-6EAC-44E7-8815-01BD701647DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{30B24D8C-6EAC-44E7-8815-01BD701647DD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
